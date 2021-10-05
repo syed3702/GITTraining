@@ -1,4 +1,2 @@
-error.log
-error1.log
-kaal.log
-MyWorkSheet.xlxs
+*.log
+dir/
